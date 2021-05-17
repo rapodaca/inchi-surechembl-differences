@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "esm": "3.2.25",
+    "@wasmer/wasi": "0.12.0"
+  }
+}
